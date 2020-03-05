@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntentLauncher</string>
+    <string name="E_1">Location</string>
+    <string name="E_2">Price</string>
+    <string name="E_3">More Information</string>
+    <string name="B_1">Submit</string>
+    <string name="C_1">Is it paid monthly?</string>
+</resources>
